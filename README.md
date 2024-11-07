@@ -5,5 +5,5 @@ The repository contains two files:
 Train.xlsx: Contains three years of hourly electricity price signals, as well as exogenous information about electric loading and gas pricing at multiple pricing nodes. 
 Test.xlsx: Contains two weeks of hourly electricity price signals, as as well as exogenous information about electric loading and gas pricing at multiple pricing nodes. 
 
-Details about the variables and challenge setup are included in the IISE Transactions paper. To use the dataset, kindly cite the following paper: 
-_Ahmed Aziz Ezzat, Mahan Mansouri, Murat Yildirim, and Xiaolei Fang, "IISE PG&E Energy Analytics Challenge 2024: Forecasting Day-Ahead Electricity Prices," IISE Transactions, 2024. _
+Details about the variables and challenge setup are included in a paper that is currently under review. To use the dataset, kindly cite the following paper: 
+_Ahmed Aziz Ezzat, Mahan Mansouri, Murat Yildirim, and Xiaolei Fang, "IISE PG&E Energy Analytics Challenge 2024: Forecasting Day-Ahead Electricity Prices," Under Review, 2024. _
