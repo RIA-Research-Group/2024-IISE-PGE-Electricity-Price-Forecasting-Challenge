@@ -12,4 +12,5 @@ The repository contains three files:
 
 
 Details about the variables and challenge setup are included in a recently published IISE-TX paper. To use the dataset, kindly cite the following paper: 
-_Aziz Ezzat, A., Mansouri, M., Yildirim, M., & Fang, X. (2025). IISE PG&E Energy Analytics Challenge 2024: Forecasting day-ahead electricity prices. IISE Transactions, 1–13. https://doi.org/10.1080/24725854.2024.2447049  _
+
+Aziz Ezzat, A., Mansouri, M., Yildirim, M., & Fang, X. (2025). IISE PG&E Energy Analytics Challenge 2024: Forecasting day-ahead electricity prices. _IISE Transactions_, 1–13. https://doi.org/10.1080/24725854.2024.2447049
