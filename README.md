@@ -6,9 +6,9 @@ The repository contains three files:
 
 1. Train.xlsx: Contains three years of hourly electricity price signals, as well as exogenous information about electric loading and gas pricing at multiple locations. 
 
-2. Test.xlsx: Contains two weeks of hourly electricity price signals, as as well as exogenous information about electric loading and gas pricing at multiple locations. 
+2. Test.xlsx: Contains two weeks of hourly electricity price signals at NP15, as as well as exogenous information about electric loading and gas pricing at multiple locations. 
 
-3. Test_full.xlsx: Contains one full year of hourly electricity price signals, as as well as exogenous information about electric loading and gas pricing at multiple locations.
+3. Test_full.xlsx: Contains one full year of hourly electricity price signals at NP15, as as well as exogenous information about electric loading and gas pricing at multiple locations.
 
 
 Details about the variables and challenge setup are included in a recently published IISE-TX paper. To use the dataset, kindly cite the following paper: 
